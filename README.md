@@ -1,1 +1,3 @@
-# visual-practice
+# javascript visual-practice
+
+## 1. Introduction
